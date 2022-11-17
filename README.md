@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gauravv-wot-id
+- 👋 Hi, I’m Gaurav
 - 👀 I’m interested in ... Web Developement
 - 🌱 I’m currently learning ... jQuery
 
